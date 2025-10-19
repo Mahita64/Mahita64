@@ -1,7 +1,15 @@
 ## Hi there 👋
+I am Mahita and I love to code and coffee :)   
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahita-kandala/)
+
+
 
 <!--
 **Mahita64/Mahita64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools
+- 🔭 My favorite languages to work with are...
+
 
 Here are some ideas to get you started:
 
